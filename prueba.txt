@@ -7,3 +7,5 @@ mi nombre es andres
 la fecha el 2023
 
 modificamos usuario y contraseña
+
+comenzando con git
