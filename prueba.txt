@@ -11,3 +11,7 @@ modificamos usuario y contraseña
 comenzando con git
 
 git show agregado
+
+
+
+estoy en la rama 1
