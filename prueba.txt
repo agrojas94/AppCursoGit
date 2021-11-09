@@ -6,7 +6,7 @@ mi nombre es andres
 
 la fecha ahora es 2025
 
-modificamos usuario y contraseña
+simulacion de cambio de cuerpo
 
 comenzando con git
 
