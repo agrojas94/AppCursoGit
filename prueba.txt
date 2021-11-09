@@ -8,7 +8,7 @@ se simula cambio de titulo
 
 simulacion de cambio de cuerpo
 
-comenzando con git
+comenzando simulacion cambio de icono
 
 git show agregado
 
